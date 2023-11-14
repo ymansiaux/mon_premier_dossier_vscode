@@ -1,0 +1,1 @@
+sample(x = LETTERS, replace = TRUE)
